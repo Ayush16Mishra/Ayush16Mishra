@@ -20,11 +20,37 @@ I love turning ideas into code — from news summarizers and EdTech tools to exp
 
 ## 🔧 Tech Stack
 
-![Languages](https://img.shields.io/badge/Languages-C,C++,Java,Python,JS-informational?style=flat&logo=code&color=0A66C2)
-![Frontend](https://img.shields.io/badge/Frontend-React,Tailwind,MUI-informational?style=flat&logo=react&color=61DAFB)
-![Backend](https://img.shields.io/badge/Backend-Node,Express,Flask-informational?style=flat&logo=node.js&color=339933)
-![Database](https://img.shields.io/badge/Database-PostgreSQL,MongoDB-informational?style=flat&logo=postgresql&color=336791)
-![Tools](https://img.shields.io/badge/Tools-Git,Docker,Figma,Postman-informational?style=flat&logo=github&color=24292F)
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🧠 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+### 💾 Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🔧 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
 
 ---
 
@@ -85,4 +111,3 @@ I love turning ideas into code — from news summarizers and EdTech tools to exp
 ---
 
 > *"Code is not just logic — it's creativity with structure."*
-
